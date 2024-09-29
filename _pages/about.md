@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello there, I'm Boris"
+title: "🌐 Hello there, I'm Hermelinda"
 author_profile: true
 redirect_from: 
   - /about/
