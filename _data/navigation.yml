@@ -15,14 +15,13 @@ main:
  - title: "Publications"
     url: /publications/
 
-    
-    #     - title: "Publications"
-    #    url: /year-archive/
+# - title: "Publications"
+    # url: /year-archive/
         
-    #     - title: "Talks"
-    #    url: /talks/    
+# - title: "Talks"
+    # url: /talks/    
     
-    #  - title: "Guide"
-    #    url: /markdown/
-    # - title: "Teaching"
-    #    url: /teaching/    
+# - title: "Guide"
+    # url: /markdown/
+# - title: "Teaching"
+    # url: /teaching/    
