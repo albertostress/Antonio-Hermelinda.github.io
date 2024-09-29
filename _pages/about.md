@@ -9,7 +9,7 @@ redirect_from:
 
 # 👨‍💻 About Me
 
-I am an experienced and dedicated **System Administrator** with a passion for designing efficient IT infrastructures, ensuring security compliance, and optimizing performance. With expertise in **cloud technologies**, **network management**, and **automation**, I help businesses scale and secure their environments while reducing operational overhead. My hands-on experience in troubleshooting, deployment, and support enables me to deliver high-quality solutions that align with organizational goals.
+I am an  dedicated **IT Administrator** with a passion for  IT enviroment, ensuring security compliance, and optimizing performance. With knowlodge in **cloud technologies**, **Administration**, and **Support**. My hands-on experience in troubleshooting, deployment, and support enables me to deliver high-quality work that align with organizational goals.
 
 **Key Skills**:
 
