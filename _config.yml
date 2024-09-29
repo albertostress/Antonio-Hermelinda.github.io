@@ -22,13 +22,13 @@ repository               : "https://albertostress.github.io/Antonio-Hermelinda.g
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Antonio Hermelinda"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "System Administrator"
+  location         : "Wesel, Germany"
+  employer         : "Self Forged"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "antoniohermelinda2020@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
