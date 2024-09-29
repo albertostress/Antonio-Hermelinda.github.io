@@ -21,7 +21,7 @@ repository               : "https://albertostress.github.io/Antonio-Hermelinda.g
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "alberto.png"
+  avatar           : "headshot_circle_final.png"
   name             : "Antonio Hermelinda"
   pronouns         : # example: "she/her"  
   bio              : "System Administrator"
