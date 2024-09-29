@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Antonio's / Homepage"
 title_separator          : "-"
-name                     : &name "Antonio Hermelinda"
+name                     : &name ""
 description              : &description "personal description"
 url                      : https://albertostress.github.io/Antonio-Hermelinda.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
